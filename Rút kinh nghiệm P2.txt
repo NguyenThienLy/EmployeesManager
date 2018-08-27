@@ -10,3 +10,5 @@ nhiều lần.
 - Lúc có dispose bitmap thì nhớ không được cho double click sẽ dẫn
 đễn lỗi show ở ptB sai.
 - 123
+- 456
+- 4789
